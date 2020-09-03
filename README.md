@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Samson. I'm a student in computer science. 💻
 
 <!--
 **mindbox44/mindbox44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
